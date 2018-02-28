@@ -1,6 +1,8 @@
 # MVA Introduction to Probabilistic Graphical Models
 Guillaume Obozinski - Francis Bach
 
+The course has 3 assignments, and the codes are written in python notebook.
+
 * Assignment 1
     * Implement Linear Discriminant Analysis (LDA)
     * Implement Logistic Regression using IRLS algorithm
@@ -12,6 +14,7 @@ Guillaume Obozinski - Francis Bach
     * Implement Gaussian Mixture Model using EM algorithm
 
 * Assignment 3
+    * Implement HMM, including EM algorithm for parameter estimation, forward-backward algorithm and Viterbi algorithm for MAP inference.
 
 Xiao CHU and I worked on the codes and reports for these assignments.
 
